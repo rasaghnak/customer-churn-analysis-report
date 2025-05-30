@@ -22,6 +22,4 @@ In this Section,  I analyzed Not Churned customers' data and Create a Machine Le
 Q & A: This page has Q&A Section.
 
 
-  
-## Screenshots
 
